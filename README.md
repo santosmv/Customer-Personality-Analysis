@@ -1,4 +1,6 @@
-In this repository we devote a simple exploratory and clustering analysis of real data from customers of an online and physical store. The sequence of steps performed in each notebook is decribed as follows:
+# Customer Personality Analysis
+
+In this repository we devote a simple exploratory and clustering analysis of real data from customers of an online and physical store (that can be found [here](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)). The sequence of steps performed in each notebook is decribed as follows:
 
 - **``exploring_preprocessing.ipynb``**
 
